@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Perimeter
+comment1.params=s
+comment1.target=double\ perimeter(double)
+comment2.params=l\ b
+comment2.target=double\ perimeter(double,\ double)
+comment3.params=a\ r
+comment3.target=double\ perimeter(int,\ double)
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5
